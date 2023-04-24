@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    my colors-->
+
+    <color name="darkprimary">#5D4037</color>
+    <color name="lightprimary">#D7CCC8</color>
+    <color name="lightprimary2">#E2F6F4</color>
+    <color name="primary">#795548</color>
+    <color name="accenttext">#FFFFFF</color>
+    <color name="accentbutton">#9E9E9E</color>
+    <color name="primarytext">#212121</color>
+    <color name="secondarytext">#757575</color>
+    <color name="divider">#BDBDBD</color>
+
+
+    <!--    default colors-->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
