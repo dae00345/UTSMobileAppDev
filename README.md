@@ -9,5 +9,5 @@ Fakultas Teknologi Informasi,
 Prodi S1 Sistem Informasi
 
 
-link build apk
+LINK BUILD APK
 https://drive.google.com/file/d/1y071vTPtHhkBw3IWpOt3lWqH4zwxk_M6/view?usp=sharing
