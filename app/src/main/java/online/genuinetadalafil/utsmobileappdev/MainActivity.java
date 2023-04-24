@@ -21,20 +21,28 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             playSound(R.raw.sound_1);
             showSnackBar("Anda Menekan Button Meow 1");
         }else if (v.getId() == R.id.imageButton2){
+            playSound(R.raw.sound_2);
             showSnackBar("Anda Menekan Button Meow 2");
         }else if (v.getId() == R.id.imageButton3) {
+            playSound(R.raw.sound_3);
             showSnackBar("Anda Menekan Button Meow 3");
         }else if (v.getId() == R.id.imageButton4){
+            playSound(R.raw.sound_4);
             showSnackBar("Anda Menekan Button Meow 4");
         }else if (v.getId() == R.id.imageButton5){
+            playSound(R.raw.sound_5);
             showSnackBar("Anda Menekan Button Meow 5");
         }else if (v.getId() == R.id.imageButton6){
+            playSound(R.raw.sound_6);
             showSnackBar("Anda Menekan Button Meow 6");
         }else if (v.getId() == R.id.imageButton7){
+            playSound(R.raw.sound_7);
             showSnackBar("Anda Menekan Button Meow 7");
         }else if (v.getId() == R.id.imageButton8){
+            playSound(R.raw.sound_8);
             showSnackBar("Anda Menekan Button Meow 8");
         }else if (v.getId() == R.id.imageButton9){
+            playSound(R.raw.sound_9);
             showSnackBar("Anda Menekan Button Meow 9");
         }
     }
